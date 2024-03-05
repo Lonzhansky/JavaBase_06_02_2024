@@ -1,7 +1,4 @@
-package ua.hillel.lonzhanskyi.lessons.lesson9;
-
-import java.util.Arrays;
-import java.util.Collections;
+package ua.hillel.lonzhanskyi.lessons.lesson8;
 
 public class Main {
     public static void main(String[] args) {
